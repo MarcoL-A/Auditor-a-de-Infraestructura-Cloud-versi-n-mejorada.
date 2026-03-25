@@ -1,2 +1,2 @@
 # Auditor-a-de-Infraestructura-Cloud-versi-n-mejorada.
-En esta nueva versión del Cloud he usado grupos para ahorrar líneas, ahorrando así un total de xxx y después en VS Code si intento poner dos servidores con el mismo ID marcará el error  y según donde o en que lo hagamos nos pueden salir cosas como: "Clave de objeto duplicada",  "Server with ID already exists"  y  "Error: listen EADDRINUSE". 
+En esta nueva versión del Cloud he usado grupos para ahorrar líneas, ahorrando así un total de 77 líneas y después en VS Code si intento poner dos servidores con el mismo ID marcará el error  y según donde o en que lo hagamos nos pueden salir cosas como: "Clave de objeto duplicada",  "Server with ID already exists"  y  "Error: listen EADDRINUSE".
